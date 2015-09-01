@@ -1,0 +1,41 @@
+#	Copyright	(c)
+#
+		
+#	Redistribution	and
+#	modification,	are
+#	met:
+	
+#	*	Redistributions
+#	notice,	this
+#	*	Redistributions
+#	copyright	notice,
+#	disclaimer	in
+#	with	the
+#	*	Neither
+#	contributors	may
+#	from	this
+#
+		
+#	THIS	SOFTWARE
+#	WARRANTIES,	INCLUDING,
+#	MERCHANTABILITY,	FITNESS
+#	ARE	DISCLAIMED.
+#	BE	LIABLE
+#	CONSEQUENTIAL	DAMAGES
+#	SUBSTITUTE	GOODS
+#	BUSINESS	INTERRUPTION)
+#	WHETHER	IN
+#	OR	OTHERWISE)
+#	IF	ADVISED
+
+		
+#	mount	point
+
+		
+/system	ext4	/dev/block/platform/msm_sdcc.1/by-name/system
+/cache	ext4	/dev/block/platform/msm_sdcc.1/by-name/cache
+/data	ext4	/dev/block/platform/msm_sdcc.1/by-name/userdata
+/external_sd	ext4	/dev/block/mmcblk1p1
+/sdcard	datamedia	/dev/block/platform/msm_sdcc.1/by-name/grow
+/boot	emmc	/dev/block/platform/msm_sdcc.1/by-name/boot	
+/recovery	emmc	/dev/block/platform/msm_sdcc.1/by-name/recovery

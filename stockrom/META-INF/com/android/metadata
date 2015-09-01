@@ -1,0 +1,3 @@
+post-build=qcom/msm8974_torsby/msm8974_torsby:4.4.4/KTU84P/eng.scm.20150206.185502:user/test-keys
+post-timestamp=1423220145
+pre-device=torsby

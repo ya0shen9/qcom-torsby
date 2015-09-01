@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2008 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+    http://www.apache.org/licenses/LICENSE-2.0
+  
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<operators version="6">
+
+    <!-- China -->
+    <operator type="gsm" mcc="460" mnc="00" sid="" country="CN" language="zh" nameshort="中国移动" namelong="中国移动" />
+    <operator type="gsm" mcc="460" mnc="00" sid="" country="TW" language="zh" nameshort="中國移動" namelong="中國移動" />
+    <operator type="gsm" mcc="460" mnc="00" sid="" country="US" language="en" nameshort="CMCC" namelong="China Mobile" />
+
+    <operator type="gsm" mcc="460" mnc="02" sid="" country="CN" language="zh" nameshort="中国移动" namelong="中国移动" />
+    <operator type="gsm" mcc="460" mnc="02" sid="" country="TW" language="zh" nameshort="中國移動" namelong="中國移動" />
+    <operator type="gsm" mcc="460" mnc="02" sid="" country="US" language="en" nameshort="CMCC" namelong="China Mobile" />
+
+    <operator type="gsm" mcc="460" mnc="07" sid="" country="CN" language="zh" nameshort="中国移动" namelong="中国移动" />
+    <operator type="gsm" mcc="460" mnc="07" sid="" country="TW" language="zh" nameshort="中國移動" namelong="中國移動" />
+    <operator type="gsm" mcc="460" mnc="07" sid="" country="US" language="en" nameshort="CMCC" namelong="China Mobile" />
+
+    <operator type="gsm" mcc="460" mnc="01" sid="" country="CN" language="zh" nameshort="中国联通" namelong="中国联通" />
+    <operator type="gsm" mcc="460" mnc="01" sid="" country="TW" language="zh" nameshort="中國聯通" namelong="中國聯通" />
+    <operator type="gsm" mcc="460" mnc="01" sid="" country="US" language="en" nameshort="CU" namelong="China Unicom" />
+
+    <operator type="cdma" mcc="460" mnc="03" sid="" country="CN" language="zh" nameshort="中国电信" namelong="中国电信" />
+    <operator type="cdma" mcc="460" mnc="03" sid="" country="TW" language="zh" nameshort="中國電信" namelong="中國電信" />
+    <operator type="cdma" mcc="460" mnc="03" sid="" country="US" language="en" nameshort="CT" namelong="China Telecom" />
+
+    <operator type="cdma" mcc="460" mnc="12" sid="" country="CN" language="zh" nameshort="中国电信" namelong="中国电信" />
+    <operator type="cdma" mcc="460" mnc="12" sid="" country="TW" language="zh" nameshort="中國電信" namelong="中國電信" />
+    <operator type="cdma" mcc="460" mnc="12" sid="" country="US" language="en" nameshort="CT" namelong="China Telecom" />
+
+    <operator type="cdma" mcc="460" mnc="13" sid="" country="CN" language="zh" nameshort="中国电信" namelong="中国电信" />
+    <operator type="cdma" mcc="460" mnc="13" sid="" country="TW" language="zh" nameshort="中國電信" namelong="中國電信" />
+    <operator type="cdma" mcc="460" mnc="13" sid="" country="US" language="en" nameshort="CT" namelong="China Telecom" />
+
+    <operator type="satellite" mcc="460" mnc="04" sid="" country="CN" language="zh" nameshort="中国全球卫星网络" namelong="中国全球卫星网络" />
+    <operator type="satellite" mcc="460" mnc="04" sid="" country="TW" language="zh" nameshort="中國全球衛星網絡" namelong="中國全球衛星網絡" />
+    <operator type="satellite" mcc="460" mnc="04" sid="" country="US" language="en" nameshort="CSGSN" namelong="China Satellite Global Star Network" />
+
+    <!-- Hong Kong, China -->
+    <operator type="gsm" mcc="454" mnc="00" sid="" country="TW" language="zh" nameshort="香港移動" namelong="香港移動" />
+    <operator type="gsm" mcc="454" mnc="00" sid="" country="US" language="en" nameshort="CSL" namelong="Hong Kong CSL" />
+
+    <operator type="gsm" mcc="454" mnc="01" sid="" country="TW" language="zh" nameshort="中信電訊" namelong="中信電訊" />
+    <operator type="gsm" mcc="454" mnc="01" sid="" country="US" language="en" nameshort="CITIC" namelong="CITIC Telecom 1616" />
+
+    <operator type="gsm" mcc="454" mnc="02" sid="" country="TW" language="zh" nameshort="香港移動3G" namelong="香港移動3G" />
+    <operator type="gsm" mcc="454" mnc="02" sid="" country="US" language="en" nameshort="CSL 3G" namelong="Hong Kong CSL 3G" />
+
+    <operator type="gsm" mcc="454" mnc="03" sid="" country="US" language="en" nameshort="3 (3G)" namelong="3 (3G)" />
+
+    <operator type="gsm" mcc="454" mnc="04" sid="" country="US" language="en" nameshort="3 (2G)" namelong="3 (2G)" />
+
+    <operator type="cdma" mcc="454" mnc="05" sid="" country="US" language="en" nameshort="3 CDMA" namelong="3 CDMA" />
+
+    <operator type="gsm" mcc="454" mnc="06" sid="" country="TW" language="zh" nameshort="數碼通" namelong="數碼通" />
+    <operator type="gsm" mcc="454" mnc="06" sid="" country="US" language="en" nameshort="SmarTone" namelong="Smartone-Vodafone" />
+
+    <operator type="gsm" mcc="454" mnc="07" sid="" country="TW" language="zh" nameshort="中國聯通" namelong="中國聯通" />
+    <operator type="gsm" mcc="454" mnc="07" sid="" country="US" language="en" nameshort="China Unicom" namelong="China Unicom" />
+
+    <operator type="gsm" mcc="454" mnc="08" sid="" country="US" language="en" nameshort="Trident" namelong="Trident" />
+
+    <operator type="gsm" mcc="454" mnc="09" sid="" country="TW" language="zh"  nameshort="潤迅通信" namelong="潤迅通信" />
+    <operator type="gsm" mcc="454" mnc="09" sid="" country="US" language="en" nameshort="China Motion Telecom" namelong="China Motion Telecom" />
+
+    <operator type="gsm" mcc="454" mnc="10" sid="" country="TW" language="zh" nameshort="香港移動" namelong="香港移動" />
+    <operator type="gsm" mcc="454" mnc="10" sid="" country="US" language="en" nameshort="New World" namelong="Hong Kong CSL Limited" />
+
+    <operator type="gsm" mcc="454" mnc="11" sid="" country="TW" language="zh" nameshort="中港通" namelong="中港通" />
+    <operator type="gsm" mcc="454" mnc="11" sid="" country="US" language="en" nameshort="China-Hongkong Telecom" namelong="China-Hongkong Telecom" />
+
+    <operator type="gsm" mcc="454" mnc="12" sid="" country="TW" language="zh" nameshort="中國移動香港" namelong="中國移動香港" />
+    <operator type="gsm" mcc="454" mnc="12" sid="" country="US" language="en" nameshort="CMCC Peoples" namelong="China Mobile HongKong" />
+
+    <operator type="gsm" mcc="454" mnc="14" sid="" country="US" language="en" nameshort="Hutchison Telecom" namelong="Hutchison Telecom" />
+
+    <operator type="gsm" mcc="454" mnc="15" sid="" country="TW" language="zh" nameshort="數碼通" namelong="數碼通" />
+    <operator type="gsm" mcc="454" mnc="15" sid="" country="US" language="en" nameshort="SmarTone" namelong="SmarTone Mobile Comms" />
+
+    <operator type="gsm" mcc="454" mnc="16" sid="" country="TW" language="zh" nameshort="電訊盈科" namelong="電訊盈科" />
+    <operator type="gsm" mcc="454" mnc="16" sid="" country="US" language="en" nameshort="PCCW" namelong="PCCW Mobile" />
+
+    <operator type="gsm" mcc="454" mnc="17" sid="" country="TW" language="zh" nameshort="數碼通" namelong="數碼通" />
+    <operator type="gsm" mcc="454" mnc="17" sid="" country="US" language="en" nameshort="SmarTone" namelong="SmarTone Mobile Comms" />
+
+    <operator type="gsm" mcc="454" mnc="18" sid="" country="TW" language="zh" nameshort="香港移動" namelong="香港移動" />
+    <operator type="gsm" mcc="454" mnc="18" sid="" country="US" language="en" nameshort="CSL" namelong="Hong Kong CSL" />
+
+    <operator type="gsm" mcc="454" mnc="19" sid="" country="TW" language="zh" nameshort="電訊盈科" namelong="電訊盈科" />
+    <operator type="gsm" mcc="454" mnc="19" sid="" country="US" language="en" nameshort="PCCW" namelong="PCCW Mobile" />
+
+    <operator type="gsm" mcc="454" mnc="22" sid="" country="TW" language="zh" nameshort="數碼通" namelong="數碼通" />
+    <operator type="gsm" mcc="454" mnc="22" sid="" country="US" language="en" nameshort="SmarTone" namelong="SmarTone Mobile Comms" />
+
+    <operator type="cdma" mcc="454" mnc="29" sid="" country="TW" language="zh" nameshort="電訊盈科"  namelong="電訊盈科" />
+    <operator type="cdma" mcc="454" mnc="29" sid="" country="US" language="en" nameshort="PCCW" namelong="PCCW Mobile" />
+ 
+    <!-- Taiwan -->
+    <operator type="gsm" mcc="466" mnc="01" sid="" country="TW" language="zh" nameshort="遠傳電信" namelong="遠傳電信" />
+    <operator type="gsm" mcc="466" mnc="01" sid="" country="US" language="en" nameshort="FET" namelong="Far EasTone" />
+
+    <operator type="cdma" mcc="466" mnc="05" sid="" country="TW" language="zh" nameshort="亞太電信" namelong="亞太電信" />
+    <operator type="cdma" mcc="466" mnc="05" sid="" country="US" language="en" nameshort="APTG" namelong="Asia Pacific Telecom" />
+
+    <operator type="gsm" mcc="466" mnc="06" sid="" country="TW" language="zh" nameshort="東榮電信" namelong="東榮電信" />
+    <operator type="gsm" mcc="466" mnc="06" sid="" country="US" language="en" nameshort="Tuntex" namelong="Tuntex Telecom" />
+
+    <operator type="gsm" mcc="466" mnc="88" sid="" country="TW" language="zh" nameshort="和信電訊" namelong="和信電訊" />
+    <operator type="gsm" mcc="466" mnc="88" sid="" country="US" language="en" nameshort="KGT" namelong="KG Telecom" />
+
+    <operator type="gsm" mcc="466" mnc="89" sid="" country="TW" language="zh" nameshort="威寶電信" namelong="威寶電信" />
+    <operator type="gsm" mcc="466" mnc="89" sid="" country="US" language="en" nameshort="VIBO" namelong="VIBO" />
+
+    <operator type="gsm" mcc="466" mnc="92" sid="" country="TW" language="zh" nameshort="中華電信" namelong="中華電信" />
+    <operator type="gsm" mcc="466" mnc="92" sid="" country="US" language="en" nameshort="CHT" namelong="Chunghwa" />
+
+    <operator type="gsm" mcc="466" mnc="11" sid="" country="TW" language="zh" nameshort="中華電信" namelong="中華電信" />
+    <operator type="gsm" mcc="466" mnc="11" sid="" country="US" language="en" nameshort="CHT" namelong="Chunghwa" />
+
+    <operator type="gsm" mcc="466" mnc="93" sid="" country="TW" language="zh" nameshort="台灣大哥大" namelong="台灣大哥大" />
+    <operator type="gsm" mcc="466" mnc="93" sid="" country="US" language="en" nameshort="TCC" namelong="Taiwan Mobile" />
+
+    <operator type="gsm" mcc="466" mnc="97" sid="" country="TW" language="zh" nameshort="台灣大哥大" namelong="台灣大哥大" />
+    <operator type="gsm" mcc="466" mnc="97" sid="" country="US" language="en" nameshort="TCC" namelong="Taiwan Mobile" />
+
+    <operator type="gsm" mcc="466" mnc="99" sid="" country="TW" language="zh" nameshort="台灣大哥大" namelong="台灣大哥大" />
+    <operator type="gsm" mcc="466" mnc="99" sid="" country="US" language="en" nameshort="TCC" namelong="Taiwan Mobile" />
+    
+    <!--Indonesia -->
+    <operator type="gsm" mcc="510" mnc="01" sid="" country="ID" language="in" nameshort="INDOSAT" namelong="INDOSAT" />
+    <operator type="gsm" mcc="510" mnc="01" sid="" country="US" language="en" nameshort="INDOSAT" namelong="INDOSAT" />
+    
+    <operator type="gsm" mcc="510" mnc="10" sid="" country="ID" language="in" nameshort="TELKOMSEL" namelong="TELKOMSEL" />
+    <operator type="gsm" mcc="510" mnc="10" sid="" country="US" language="en" nameshort="TELKOMSEL" namelong="TELKOMSEL" />
+    
+    <operator type="gsm" mcc="510" mnc="11" sid="" country="ID" language="in" nameshort="XL" namelong="XL" />
+    <operator type="gsm" mcc="510" mnc="11" sid="" country="US" language="en" nameshort="XL" namelong="XL" />
+    
+    <operator type="gsm" mcc="510" mnc="89" sid="" country="ID" language="in" nameshort="3" namelong="3" />
+    <operator type="gsm" mcc="510" mnc="89" sid="" country="US" language="en" nameshort="3" namelong="3" />
+    
+    <operator type="gsm" mcc="510" mnc="08" sid="" country="ID" language="in" nameshort="AXIS" namelong="AXIS" />
+    <operator type="gsm" mcc="510" mnc="08" sid="" country="US" language="en" nameshort="AXIS" namelong="AXIS" />
+    
+    <operator type="cdma" mcc="510" mnc="99" sid="" country="ID" language="in" nameshort="Esia" namelong="Esia" />
+    <operator type="cdma" mcc="510" mnc="99" sid="" country="US" language="en" nameshort="Esia" namelong="Esia" />
+   
+    <operator type="gsm" mcc="311" mnc="180" sid="" country="US" language="en" nameshort="AT&amp;T" namelong="AT&amp;T" />
+    <operator type="gsm" mcc="310" mnc="410" sid="" country="US" language="en" nameshort="AT&amp;T" namelong="AT&amp;T" />
+    <operator type="gsm" mcc="310" mnc="150" sid="" country="US" language="en" nameshort="AT&amp;T" namelong="AT&amp;T" />
+    <operator type="gsm" mcc="310" mnc="170" sid="" country="US" language="en" nameshort="AT&amp;T" namelong="AT&amp;T" />
+    <operator type="gsm" mcc="310" mnc="380" sid="" country="US" language="en" nameshort="AT&amp;T" namelong="AT&amp;T" />
+    <operator type="gsm" mcc="310" mnc="560" sid="" country="US" language="en" nameshort="AT&amp;T" namelong="AT&amp;T" />
+    <operator type="gsm" mcc="310" mnc="680" sid="" country="US" language="en" nameshort="AT&amp;T" namelong="AT&amp;T" />
+    <operator type="gsm" mcc="310" mnc="070" sid="" country="US" language="en" nameshort="AT&amp;T" namelong="AT&amp;T" />
+    <operator type="gsm" mcc="310" mnc="090" sid="" country="US" language="en" nameshort="AT&amp;T" namelong="AT&amp;T" />
+
+</operators>
